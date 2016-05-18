@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="queryscore.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="queryscore_cxcj_ahxkp_cjcx_webserver" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://210.30.208.140/ahxkp_cjcx_webserver.asmx</Value>
+    </Setting>
+    <Setting Name="queryscore_chafen_ahxkp_cjcx_webserver" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://210.30.208.140/ahxkp_cjcx_webserver.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
